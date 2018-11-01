@@ -1,3 +1,2 @@
 # jammerKid
-This is a description 
-this is an edit
+This is the master policy repo.. do not deny
